@@ -1,0 +1,15 @@
+{
+  "name": "alexa-space-facts",
+  "version": "0.0.0",
+  "description": "Working with the alexa space-facts demo",
+  "main": "index.js",
+  "dependencies": {
+    "alexa-sdk": "^1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Will Ockelmann-Wagner",
+  "license": ""
+}
