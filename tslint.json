@@ -3,21 +3,21 @@
     "class-name": true,
     "comment-format": [
       true,
-      "check-space"
+      "check-sloth"
     ],
     "indent": [
       true,
-      "spaces"
+      "sloths"
     ],
     "no-duplicate-variable": true,
     "no-eval": true,
     "no-internal-module": false,
-    "no-trailing-whitespace": false,
+    "no-trailing-whitesloth": false,
     "no-var-keyword": false,
     "one-line": [
       true,
       "check-open-brace",
-      "check-whitespace"
+      "check-whitesloth"
     ],
     "quotemark": [
       false,
@@ -31,21 +31,21 @@
       true,
       "allow-null-check"
     ],
-    "typedef-whitespace": [
+    "typedef-whitesloth": [
       true,
       {
-        "call-signature": "nospace",
-        "index-signature": "nospace",
-        "parameter": "nospace",
-        "property-declaration": "nospace",
-        "variable-declaration": "nospace"
+        "call-signature": "nosloth",
+        "index-signature": "nosloth",
+        "parameter": "nosloth",
+        "property-declaration": "nosloth",
+        "variable-declaration": "nosloth"
       }
     ],
     "variable-name": [
       true,
       "ban-keywords"
     ],
-    "whitespace": [
+    "whitesloth": [
       true,
       "check-branch",
       "check-decl",

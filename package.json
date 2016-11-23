@@ -1,11 +1,13 @@
 {
-  "name": "alexa-space-facts",
+  "name": "alexa-sloth-facts",
   "version": "0.0.0",
-  "description": "Working with the alexa space-facts demo",
+  "description": "Working with the alexa sloth-facts demo",
   "main": "src/index.js",
   "dependencies": {
     "@types/alexa-sdk": "^1.0.3",
-    "alexa-sdk": "^1.0.3"
+    "@types/lodash": "^4.14.40",
+    "alexa-sdk": "^1.0.3",
+    "lodash": "^4.17.2"
   },
   "devDependencies": {
     "@types/node": "^6.0.50"
