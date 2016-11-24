@@ -12,4 +12,3 @@ GetNewFactIntent give me some information
 GetNewFactIntent give me some sloth information
 GetNewFactIntent tell me something
 GetNewFactIntent give me something
-

@@ -1,7 +1,7 @@
 import Alexa = require('alexa-sdk');
 import _ = require('lodash');
 
-const APP_ID = 'amzn1.ask.skill.fd2174b5-9ce8-4ded-a0da-66f18bdd6502'; // OPTIONAL: replace with "amzn1.echo-sdk-ams.app.[your-unique-value-here]";
+const APP_ID = 'amzn1.ask.skill.224d3dea-a3bd-4367-9769-fb43fbe02ec9'; // OPTIONAL: replace with "amzn1.echo-sdk-ams.app.[your-unique-value-here]";
 
 const SKILL_NAME = 'Sloth Facts';
 
@@ -11,15 +11,15 @@ const SKILL_NAME = 'Sloth Facts';
 const FACTS: string[] = [
   'Sloths are very slow! You probably already knew that though.',
   'Sloths are able swimmers, and are faster in the water than in a tree.',
-  'A sloth only poops once a week, and loses half its body weigtht while doing it.',
-  'Sloths poop at the bottom of their tree to help alge grow, which gets on their fur and helps camouflage the sloth.',
+  'A sloth only poops once a week, and loses half its body weight while doing it.',
+  'Sloths poop at the bottom of their tree to help algae grow, which gets on their fur and helps camouflage the sloth.',
   'Two-toed and three-toed sloths both have three toes; however two-toed sloths only have two claws on their hands.',
-  'Two-toed and three-toed slots are not that closly related.',
+  'Two-toed and three-toed slots are not that closely related.',
   'Wild sloths actually only sleep about 10 hours a day, but ones in captivity sleep much more.',
   `Sloths are slow and well-camouflaged, so they're hard for predators to spot in the trees. They're most vulnerable when they leave their trees to go to the bathroom.`,
   `Slots are slow because they mostly eat leaves, which don't have much energy.`,
   `Sloths only have one baby at a time.`,
-  `A baby sloth will hang onto its mothers for a few weeks, and stay with her for a few years.`,
+  `A baby sloth will hang onto its mother for a few weeks, and stay with her for a few years.`,
   `Sloths only leave their trees to swim and use the bathroom.`,
   `Sloths don't spend a lot of time with other sloths.`,
   `There used to be giant slots in North America.`,
@@ -29,7 +29,7 @@ const FACTS: string[] = [
   `Sloth claws are usually about 4 inches long.`,
   `Wild sloths usually live to about 15, though they can live as long as 40 years.`,
   `Sloths' internal organs are attached to their rib cages, which helps them breath when their upsidedown.`,
-  `Sloths don't sweat or have body oder, which helps them stay hidden.`,
+  `Sloths don't sweat or have body odor, which helps them stay hidden.`,
   `When swimming, sloths can hold their breath for up to 40 minutes.`
 ];
 
